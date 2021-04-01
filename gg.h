@@ -10,4 +10,5 @@ T SUM(T a, T b)
 	return a + b;
 	//todo hhhhh
 	//第一
+	//第二
 }
