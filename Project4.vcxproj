@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="EEE.h" />
     <ClInclude Include="gg.h" />
     <ClInclude Include="LOG.h" />
   </ItemGroup>
