@@ -8,5 +8,5 @@ template<typename T>
 T SUM(T a, T b)
 {
 	return a + b;
-	//todo hhhhhjjj
+	//todo hhhhh
 }
