@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="gg.h" />
+    <ClInclude Include="LOG.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CLASS2.cpp" />
