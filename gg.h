@@ -9,4 +9,5 @@ T SUM(T a, T b)
 {
 	return a + b;
 	//todo hhhhh
+	//µÚÒ»
 }
