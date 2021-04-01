@@ -142,6 +142,7 @@
     <ClInclude Include="gg.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CLASS2.cpp" />
     <ClCompile Include="hhh.cpp" />
     <ClCompile Include="lll.cpp" />
   </ItemGroup>
