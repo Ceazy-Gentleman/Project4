@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClInclude Include="EEE.h" />
     <ClInclude Include="gg.h" />
+    <ClInclude Include="LOG.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hhh.cpp" />
